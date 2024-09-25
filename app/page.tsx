@@ -4,6 +4,7 @@ export default function Home() {
       <main className="flex flex-col gap-8 row-start-2 items-center sm:items-start">
         <p>さこみちょがぞう</p>
         <p>キャプションキャプション</p>
+        <p>編集</p>
         <img
           className="dark:invert"
           src="icon190101futari1sdm.jpg"
